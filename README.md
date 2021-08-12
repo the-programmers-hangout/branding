@@ -13,3 +13,8 @@
     </a>
 </h4>
 
+## Licensing
+This project is licensed under the PolyForm Strict License meaning you're able to use, edit, create, ect. as long as your usecase is not commercial.
+
+Want to make a T-Shirt? Go ahead.
+Want to sell a T-Shirt with our branding? No can do.
